@@ -1,5 +1,5 @@
 🎬 MovieHunterX
-Live Site: MovieHunterX
+Live Site: https://ritiksahu90.github.io/moviehunterx/
 Tech Stack: React.js, Bootstrap, HTML, CSS, JavaScript
 
 📌 Overview
